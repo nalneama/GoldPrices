@@ -29,7 +29,7 @@ import java.util.concurrent.TimeUnit;
 
 
 public class GoldFragment extends Fragment {
-
+    //testing vcs
     private TextView mInfo;
     private TextView mProfit;
     private final static double ten_tolas=116.63;
@@ -47,7 +47,7 @@ public class GoldFragment extends Fragment {
         super.onCreate(savedInstanceState);
 
         }
-
+// have to be rewritten
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,Bundle savedInstanceState) {
